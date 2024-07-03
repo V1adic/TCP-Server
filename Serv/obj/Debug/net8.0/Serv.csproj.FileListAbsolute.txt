@@ -1,0 +1,14 @@
+/home/oem/Desktop/Serv/Serv/bin/Debug/net8.0/Serv
+/home/oem/Desktop/Serv/Serv/bin/Debug/net8.0/Serv.deps.json
+/home/oem/Desktop/Serv/Serv/bin/Debug/net8.0/Serv.runtimeconfig.json
+/home/oem/Desktop/Serv/Serv/bin/Debug/net8.0/Serv.dll
+/home/oem/Desktop/Serv/Serv/bin/Debug/net8.0/Serv.pdb
+/home/oem/Desktop/Serv/Serv/obj/Debug/net8.0/Serv.GeneratedMSBuildEditorConfig.editorconfig
+/home/oem/Desktop/Serv/Serv/obj/Debug/net8.0/Serv.AssemblyInfoInputs.cache
+/home/oem/Desktop/Serv/Serv/obj/Debug/net8.0/Serv.AssemblyInfo.cs
+/home/oem/Desktop/Serv/Serv/obj/Debug/net8.0/Serv.csproj.CoreCompileInputs.cache
+/home/oem/Desktop/Serv/Serv/obj/Debug/net8.0/Serv.dll
+/home/oem/Desktop/Serv/Serv/obj/Debug/net8.0/refint/Serv.dll
+/home/oem/Desktop/Serv/Serv/obj/Debug/net8.0/Serv.pdb
+/home/oem/Desktop/Serv/Serv/obj/Debug/net8.0/Serv.genruntimeconfig.cache
+/home/oem/Desktop/Serv/Serv/obj/Debug/net8.0/ref/Serv.dll

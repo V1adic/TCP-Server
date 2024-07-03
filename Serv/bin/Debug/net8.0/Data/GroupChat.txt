@@ -1,0 +1,8 @@
+Vlad: Hello
+Vova: Hello
+Vlad: Чат работает?
+Vova: Да, работает)
+Vlad: Все хорошо?
+Vova: Да
+Vova: Привет!
+Vlad: приветики
